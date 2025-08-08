@@ -36,7 +36,6 @@ Leveraging **Google Gemini AI** for intelligent ticket classification and respon
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose), JWT Authentication  
 - **AI Integration:** Google Gemini AI (LLM)  
 - **Event Processing:** Inngest for asynchronous task orchestration  
-- **Real-Time:** WebSockets (socket.io)  
 - **Email:** Nodemailer for SMTP transactional emails  
 
 ---
